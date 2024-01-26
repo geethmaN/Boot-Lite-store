@@ -19,5 +19,7 @@
 
 ##Node:- If the want to add new product 
 login  in using ,
-email = gwwthmaabeywickrama@gmail.com,
+email = geethmaabeywickrama@gmail.com,
+
+
 password = 1234
